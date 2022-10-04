@@ -1,0 +1,22 @@
+///scrResetWaveControl()
+spawnDelay = 0;
+waveTimer = 0;
+wave++;
+isWave = false;
+waveProgress = 0;
+enemyCount[0] = 0;
+enemyCount[1] = 0;
+enemyCount[2] = 0;
+enemyCount[3] = 0;
+enemyCount[4] = 0;
+enemyCount[5] = 0;
+enemyCount[6] = 0;
+enemyCount[7] = 0;
+spawnCount[0] = 0;
+spawnCount[1] = 0;
+spawnCount[2] = 0;
+spawnCount[3] = 0;
+spawnCount[4] = 0;
+spawnCount[5] = 0;
+spawnCount[6] = 0;
+spawnCount[7] = 0;
